@@ -1,15 +1,21 @@
-# Programa Top v__ -  Tiempo _______
+# Programa Top v24 -  Tiempo Completo
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
-- [Nombre del mentor](profiles/mentor-principal.md)
-- Mentor 2
-- Mentor 3
+- [Sergio Jaramillo](profiles/mentor-principal.md)
+- Juan Quiroz
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Estudiante 1
-- Estudiante 2
-- Estudiante 3
-- ...
+- Daniel Alejandro Moreno
+- Omar Vega Atencia
+- Noah Zapata Puerta
+- Jairo Jair Toro Novellis
+- Ruben Dario Castilla Romero
+- Diego Ricardo Higuera Guerrero
+- Jeniffer Gabriela Ortiz Mora
+- Jhon Sneifer Vasquez Vélez
+- Juan Esteban Carreño Camelo
+- Boris Alexis Leighton Inostroza
+- Maria Camila Recuero Severiche
 
 ## Como es un dia de estudio durante el programa TOP?
 
